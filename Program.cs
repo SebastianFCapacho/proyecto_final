@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Globalization;
-// hola a todos jajaajj
+// mañana es viernes
 namespace SistemaNotas
 {
     internal class Program
